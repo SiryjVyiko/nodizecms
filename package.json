@@ -19,7 +19,7 @@
     "consolidate":"0.8.0",
     "cookie":"0.0.5",
     "sequelize": "1.6.0",
-    "mysql":"2.0.0-alpha7",
+    "mysql": "2.15.0",
     "coffee-script": "1.6.1",
     "coffeecup": "0.3.19",
     "eco": "1.1.0-rc-3",
